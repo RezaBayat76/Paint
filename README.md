@@ -1,2 +1,2 @@
 # Paint (EMPTY)
-![alt tag](/doc/paint.jpg)
+![alt tag](/doc/Paint.jpg)

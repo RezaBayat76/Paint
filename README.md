@@ -1,2 +1,2 @@
 # Snake (EMPTY)
-![alt tag](/doc/snake.jpg)
+![alt tag](/doc/paint.jpg)
